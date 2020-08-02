@@ -1,0 +1,6 @@
+C:\Users\vjusiega\Desktop\Digital_Structures\CityData\CityData\bin\CityData.dll
+C:\Users\vjusiega\Desktop\Digital_Structures\CityData\CityData\bin\CityData.pdb
+C:\Users\vjusiega\Desktop\Digital_Structures\CityData\CityData\obj\Debug\CityData.csprojAssemblyReference.cache
+C:\Users\vjusiega\Desktop\Digital_Structures\CityData\CityData\obj\Debug\CityData.csproj.CoreCompileInputs.cache
+C:\Users\vjusiega\Desktop\Digital_Structures\CityData\CityData\obj\Debug\CityData.dll
+C:\Users\vjusiega\Desktop\Digital_Structures\CityData\CityData\obj\Debug\CityData.pdb
